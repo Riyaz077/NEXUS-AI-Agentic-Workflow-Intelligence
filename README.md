@@ -639,7 +639,7 @@ The project uses:
 
 The application can run in Demo Mode without an API key. Live LLM functionality requires the appropriate environment configuration.
 
-**Live Application:** [NEXUS AI – Public Dashboard](YOUR_RENDER_PUBLIC_URL)
+
 
 ---
 
@@ -691,41 +691,7 @@ NEXUS-AI-Agentic-Workflow-Intelligence/
 | `assets/nexus_logo.png` | NEXUS AI visual identity. |
 | `screenshots/` | Dashboard screenshots for project documentation. |
 
----
 
-## Dashboard Screenshots
-
-Explore the different workspaces and application interfaces.
-
-### 01. Platform Overview
-
-![NEXUS AI Platform Overview](screenshots/01-overview.png)
-
-### 02. Agent Workspace
-
-![NEXUS AI Agent Workspace](screenshots/02-agent-workspace.png)
-
-### 03. Enterprise Knowledge Hub
-
-![NEXUS AI Knowledge Hub](screenshots/03-knowledge-hub.png)
-
-### 04. Data Intelligence
-
-![NEXUS AI Data Intelligence](screenshots/04-data-intelligence.png)
-
-### 05. Workflow Lab
-
-![NEXUS AI Workflow Lab](screenshots/05-workflow-lab.png)
-
-### 06. Evaluation and Logs
-
-![NEXUS AI Evaluation and Logs](screenshots/06-evaluation-logs.png)
-
-### 07. Application Footer
-
-![NEXUS AI Developer Footer](screenshots/07-footer.png)
-
----
 
 ## Current Implementation Scope and Future Enhancements
 
