@@ -9,21 +9,6 @@
   <strong>Transforming Business Requests into Intelligent, Structured and Actionable Workflows</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Integration-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Architecture-00BFA6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
-</p>
-
-<p align="center">
-  <a href="YOUR_RENDER_PUBLIC_URL">Live Demo</a> •
-  <a href="#system-architecture">Architecture</a> •
-  <a href="#core-capabilities">Features</a> •
-  <a href="#installation-and-setup">Installation</a> •
-  <a href="#responsible-ai-and-security">Responsible AI</a>
-</p>
 
 ---
 
