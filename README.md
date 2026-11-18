@@ -634,48 +634,33 @@ The application can run in Demo Mode without an API key. Live LLM functionality 
 NEXUS-AI-Agentic-Workflow-Intelligence/
 │
 ├── app.py
-│
 ├── requirements.txt
-│
 ├── render.yaml
-│
 ├── README.md
-│
 ├── LICENSE
-│
 ├── .gitignore
-│
 ├── .env.example
 │
 ├── assets/
 │   └── nexus_logo.png
 │
-├── .streamlit/
-│   └── config.toml
-│
-└── screenshots/
-    ├── 01-overview.png
-    ├── 02-agent-workspace.png
-    ├── 03-knowledge-hub.png
-    ├── 04-data-intelligence.png
-    ├── 05-workflow-lab.png
-    ├── 06-evaluation-logs.png
-    └── 07-footer.png
+└── .streamlit/
+    └── config.toml
 ```
 
 ### Important Files
 
-| File | Purpose |
+| File / Directory | Purpose |
 |---|---|
 | `app.py` | Main application, dashboard, agent logic and workflow processing. |
 | `requirements.txt` | Python dependency definitions. |
 | `render.yaml` | Render deployment configuration. |
-| `.streamlit/config.toml` | Streamlit theme and server configuration. |
-| `.env.example` | Example environment-variable configuration. |
+| `README.md` | Project documentation and technical overview. |
+| `LICENSE` | MIT License information. |
 | `.gitignore` | Excludes virtual environments, secrets and temporary files. |
-| `assets/nexus_logo.png` | NEXUS AI visual identity. |
-| `screenshots/` | Dashboard screenshots for project documentation. |
-
+| `.env.example` | Example environment-variable configuration. |
+| `assets/nexus_logo.png` | NEXUS AI application logo and visual identity. |
+| `.streamlit/config.toml` | Streamlit theme and server configuration. |
 
 
 ## Current Implementation Scope and Future Enhancements
